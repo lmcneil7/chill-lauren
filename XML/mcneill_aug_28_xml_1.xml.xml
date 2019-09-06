@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe type="bread" name="Country Loaf" servings="twelve" website="Washington Post">
+<introduction>
+<author>Sam Fromartz</author> has been making sourdough variations of this yeast bread for years. Here, he adds <ingredient type="wet">fermented cider</ingredient> for flavor. <optional>A mild beer may be substituted</optional>; <appraisal>an IPA would be too bitter</appraisal>. The loaf is sized to last a few days.
+
+<optional>The optional tablespoon of water is to compensate for the variable absorption of <ingredient type="dry">the rye and whole-wheat flours</ingredient>.</optional>
+
+<necessity>You'll need <equipment type="utensil">a colander</equipment>, <optional><equipment type="fabric">a pastry cloth</equipment> or <equipment type="fabric">clean dish towel</equipment></optional> and <optional><equipment type="bakeware">a covered cast-iron</equipment> or <equipment type="bakeware">enameled cast-iron pot.</equipment></optional></necessity>
+
+<optional>Make Ahead: The dough needs <time type="minute">four 20-minute rests</time>, plus <time type="hour">an 8-to-24-hour stay</time> in the refrigerator and a final <time type="hour">1 1/2-hour rise</time>.</optional>
+
+<storageNotes>Store the cooled loaf in a paper bag for <time type="day">a day</time>, and store in a plastic bag for a few days after that. Do not refrigerate.</storageNotes>
+</introduction>
+
+<ingredients>
+        <item n="1" type="dry"><measurement type="cup">1 1/4 cups</measurement> <measurement type="gram">(160 grams)</measurement> white bread flour, plus more for dusting</item>
+        <item n="2" type="dry"><measurement type="cup">1/4 cup</measurement> <measurement type="gram">(38 grams)</measurement> stone-ground whole-wheat flour</item>
+        <item n="3" type="dry"><measurement type="cup">1/4 cup</measurement> <measurement type="gram">(32 grams)</measurement> stone-ground whole rye flour</item>
+        <item n="4" type="dry"><measurement type="teaspoon">1/2 teaspoon</measurement> instant yeast or bread machine yeast</item>
+        <item n="5" type="dry"><measurement type="teaspoon">1 teaspoon</measurement> table salt</item>
+        <item n="6" type="wet"><measurement type="cup">1/4 cup</measurement> <measurement type="gram">(55 grams)</measurement> dry fermented cider (may substitute Pilsener beer)</item>
+        <item n="7" type="wet"><measurement>1/2 cup</measurement> <measurement>(120 grams)</measurement> lukewarm water <temperature>(80 degrees)</temperature>, <optional>plus an optional 1 tablespoon</optional></item>
+</ingredients>
+
+<directions>
+    <step n="1"><equipment type="utensil">Whisk</equipment> together <ingredient type="dry">the flours</ingredient>, <ingredient type="dry">yeast</ingredient> and <ingredient type="dry">salt</ingredient> in <equipment type="bakeware">a mixing bowl</equipment>. Combine the <ingredient type="wet">cider</ingredient> and <ingredient type="wet">water</ingredient> in <equipment type="bakeware">a liquid measuring cup</equipment>.</step>
+    <step n="2">Add <ingredient type="wet">the liquid</ingredient> to <ingredient type="dry">the flour mixture</ingredient>; use <optional><equipment type="utensil">a spatula</equipment> or <equipment type="utensil">bench scraper</equipment> or your hand moistened with water to blend them for about <time type="minute">a minute</time></optional>. <appraisal>The dough should be shaggy yet cohesive</appraisal>.</step>
+    <step n="3">Cover <equipment type="bakeware">the bowl</equipment> with <equipment type="fabric">a towel</equipment>; let the dough rest for <time type="minute">20 minutes</time>.</step>
+    <step n="4">Moisten your kneading hand. <optional>If the dough seems stiff, add <measurement type="teaspoon">a tablespoon</measurement> of <ingredient type="wet">water</ingredient>.</optional></step>
+    <step n="5">Stretch one edge of the dough (still in the bowl), then press it into the center of <equipment type="bakeware">the bowl</equipment>. Repeat this about a dozen times, moving clockwise to catch all sides of the dough. <appraisal>(This should take <time type="minute">1 or 2 minutes</time>.)</appraisal></step>
+    <step n="6">Turn the dough over so the seams are on the bottom. Cover and let rest for <time type="minute">20 minutes</time>. Repeat the clockwise stretching and folding two more times, with <time type="minute">20-minute rests</time> after each. Cover and refrigerate at least <time type="hour">8 hours</time> and up to <time type="day">24 hours</time>. <appraisal>The dough should have doubled.</appraisal> If it hasn't, leave it on the counter until it does.</step>
+    <step n="7">Lightly flour a work surface. Use <optional><equipment type="fabric">a pastry cloth</equipment> or <equipment type="fabric">clean dish towel</equipment></optional> to line <equipment type="utensil">a round colander</equipment>. Dust <equipment type="fabric">the cloth</equipment> with <ingredient type="dry">flour</ingredient>.</step>
+    <step n="8">Transfer the dough to the floured work surface. Fold the edges toward the center to create a round shape, turning it over so the seams are on the bottom.</step> 
+    <step n="9">Let it rest for <time type="minute">5 minutes</time>, then transfer to the <equipment type="utensil">colander</equipment>, seam side up. Cover with <equipment type="fabric">a towel</equipment> and let the dough rise for <time type="hour">1 1/2 hours</time>.</step>
+    <step n="10"><time type="minute">Thirty minutes</time> before baking, place <optional><equipment type="bakeware">a cast-iron Dutch oven (lid on)</equipment> or <equipment type="bakeware">enameled cast-iron pot with a lid (on)</equipment></optional> in the oven; preheat to <temperature>475 degrees</temperature>.</step>
+    <step n="11">Carefully remove the hot pot from the oven.</step>
+    <step n="12">Turn the dough out onto the counter so the seams are on the bottom. Use <equipment type="utensil">kitchen scissors</equipment> to make <measurement type="snip">8 snips</measurement> on the top of the dough in an evenly spaced spoke pattern, each about <measurement type="inch">1/4-inch deep</measurement>.</step>
+    <step n="13">Lift the dough and carefully drop it into <equipment type="bakeware">the hot pot</equipment>. Immediately cover with the hot lid. Bake for <temperature>30 minutes</temperature>, then reduce the heat to <temperature>450 degrees</temperature>. Uncover and bake for <time type="minute">8 to 10 minutes</time> or <appraisal>until the crust is dark brown</appraisal>. Try to minimize the amount of time the oven door is open.</step>
+<appraisal>The bread is done when its internal temperature registers <temperature>205 degrees</temperature> on <equipment type="bakeware">an instant-read thermometer</equipment> and the loaf sounds hollow when knocked on the underside.</appraisal>
+    <step n="14">Transfer the loaf to <equipment type="bakeware">a wire rack</equipment> to cool for at least <time type="hour">1 hour</time> before cutting.</step>
+</directions>
+<!--lm: is there a better attribute to use for optional? for instanse, sometimes the recipe would offer two options and I just used the optional attribe to show that, but I'm wondering if there was a better method for it? -->
+<!--lm: similarly, I used two measurement attributes for both grams and cups, but is there anyway to use one measurement attribute and show two types to it? [<measurement> type="cups" 1/4 cups type="grams" (140 grams) </measurement>] -->
+<!--lm: I used appraisal for information the author included on what it should look like through the process but I don't think that was the best word to use. -->
+</recipe>
