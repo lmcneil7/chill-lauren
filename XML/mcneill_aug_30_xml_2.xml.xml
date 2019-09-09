@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../../OneDrive/Documents/formation.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../OneDrive/Documents/mcneill_sept_9_relaxng.rnc.rnc" type="application/relax-ng-compact-syntax"?>
 <letter pointOfView="first_person" numberOfLetters="twelve">
     <website>English History</website>
     <place country="England" city="Greater_London" state="United_Kingdom">Harrow-on-the-Hill</place>
