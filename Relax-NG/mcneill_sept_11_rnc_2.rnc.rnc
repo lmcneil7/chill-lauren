@@ -1,0 +1,30 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = script
+script = element script {movie, genre, director, releaseDate*,INT, EXT, TheWreck, LongShot}
+movie = attribute movie {"Fargo"}
+genre = attribute genre {"neo-noir_black_comedy_thriller_film"}
+director = attribute director {"Joel_and_Ethan_Coen"}
+releaseDate = element releaseDate {place, when, text}
+place = attribute place {"United_States" | "United_Kingdom"}
+when = attribute when {xsd:date | xsd:gYearMonth | xsd:gYear}
+
+INT = element INT {mixed{(sceneHeading | character | action | prop | preposition | object)*}}
+sceneHeading = attribute sceneHeading {"car" | "road"}
+character = element character {trait, text}
+trait = attribute trait {text}
+action = element action {text}
+prop = element prop {text}
+preposition = element preposition {text}
+object = element object {owner, text}
+owner = attribute owner {text}
+
+EXT = element EXT {mixed{(sceneHeading | personification | object | character | preposition | costume | setting | action | prop)*}}
+costume = element costume {text}
+setting = element setting {text}
+
+TheWreck = element TheWreck {mixed{( sceneHeading | action | object | character | setting)*}}
+
+LongShot = element LongShot {mixed{(sceneHeading | personification | preposition | object | character | action | prop)*}}
+personification = element personification {ref, text, preposition?, lighting?, text}
+lighting = element lighting {text}
+ref = attribute ref {text}
