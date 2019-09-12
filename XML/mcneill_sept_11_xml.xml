@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ahh.rnc" type="application/relax-ng-compact-syntax"?>
+<script movie="Fargo" genre="neo-noir_black_comedy_thriller_film" director="Joel_and_Ethan_Coen">
+<releaseDate place="United_States" when="1996-03-08">March 8, 1996</releaseDate>
+<releaseDate place="United_Kingdom" when="1996-05-31">May 31, 1996</releaseDate>
+    
+    <INT sceneHeading="car"><character trait="criminal">Grimsrud</character> <action>sweeps</action> his <prop>gun</prop> <preposition>off the front seat</preposition>, <action>throws</action> open his
+    <object owner="Grimsrud">door</object> and <action>gets out</action>.</INT>
+    
+    <EXT sceneHeading="road">EXTERIOR
+    <personification ref="headlights">The wrecked car's <lighting>headlights shine off</lighting></personification> <preposition>into a snowfield</preposition>
+    <setting>abutting the highway</setting>.  <character trait="young">A young man</character> in <costume>a down parka</costume> is
+    limping <preposition>across the snowfield</preposition>, away from <object owner="unknown">the wrecked car</object>.
+    
+    <character trait="criminal">Grimsrud</character> <action>strides</action> calmly out <preposition>after the injured boy</preposition>.  He
+    raises his <prop>gun</prop> and <action>fires</action>.
+    
+    With <prop>a poof of feathers</prop>, a hole opens up in the boy's back
+    and he <action>collapses</action> <preposition>into the snow</preposition>.
+    
+    <character trait="criminal">Grimsrud</character> <action>walks up</action> next to the prostrate body and <action>fires</action> again.
+    
+    He turns and walks away.</EXT>
+    
+    <TheWreck>THE WRECK
+    
+    <character trait="criminal">Grimsrud</character> <action>throws open</action> <object owner="Cutlass_Ciera">the passenger door</object>. <character trait="young">A young woman</character> is 
+    <setting>trapped inside the twisted wreckage</setting>, badly injured.</TheWreck>
+    
+   <LongShot> LONG SHOT THE WRECK
+    
+    <personification ref="snow">Snow swirls <preposition>in the headlights</preposition> of the two cars</personification>. <character trait="criminal">Grimsrud</character> is a
+    dark figure against the snow.  He <action>raises</action> his gun and <action>fires</action> one
+    shot into the wreck.
+    </LongShot>
+</script>
