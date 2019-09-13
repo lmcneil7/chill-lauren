@@ -1,0 +1,44 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = lyrics
+lyrics = element lyrics {song, artist, album, songWriter, release, duration, usage, chorus, verseOne, chorus, verseTwo, chorus, guitarSolo, bridge, chorus, guitarSoloOutro}
+song = attribute song {"Carry_On_Wayward_Son"}
+artist = attribute artist {"Kansas"}
+album = attribute album {"Leftoverture"}
+songWriter = attribute songWriter {"Kerry_Livgren"}
+release = attribute release {"1976"}
+duration = attribute duration {"5:23"}
+usage = attribute usage {"Supernatural_TV_Series"}
+chorus = element chorus {repetition?, mixed{(n | dialogue)*}}
+repetition = attribute repetition {"four"}
+n = attribute n {text}
+dialogue = element dialogue {speaker, lackOf, pretense, mixed {(change | pronoun | adjective | parallelism | noun | syntax | exclamation)*}}
+speaker = attribute speaker {"The_Voices"}
+lackOf = attribute lackOf {"quotations"}
+pretense = attribute pretense {"Prodigal_Son"}
+change = element change {text, pronoun?, text}
+adjective = element adjective {sort, text}
+sort = attribute sort {text}
+pronoun = element pronoun {ref, text}
+ref = attribute ref {"narrator" | "The_Voices" | "ambiguous" | "Socrates"}
+noun = element noun {category, text}
+category = attribute category {text}
+syntax = element syntax {kind, (pronoun* | noun? | text)}
+kind = attribute kind {"informal" | "formal"}
+
+verseOne = element verseOne {mixed{(pronoun | adjective | parallelism | noun | syntax)*}}
+parallelism = element parallelism {mixed{(pronoun | adjective | noun)*}}
+
+verseTwo = element verseTwo {mixed{(pronoun | adjective | principle | simile | noun | syntax)*}}
+principle = element principle {type, ref, mixed{(pronoun | adjective | syntax)*}}
+type = attribute type {"philosophical"}
+simile = element simile {mixed{(pronoun | noun)*}}
+
+guitarSolo = element guitarSolo {instrument, time, text}
+instrument = attribute instrument {"guitar"}
+time = attribute time {"start" | "finish"}
+
+bridge = element bridge {mixed{dialogue}}
+
+guitarSoloOutro = element guitarSoloOutro {instrument, time, mixed{exclamation?}}
+exclamation = element exclamation {change?, text}
+
