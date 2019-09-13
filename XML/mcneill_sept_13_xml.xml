@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lyricssss.rnc" type="application/relax-ng-compact-syntax"?>
+<lyrics song="Carry_On_Wayward_Son" artist="Kansas" album="Leftoverture" songWriter="Kerry_Livgren"
+    release="1976" duration="5:23" usage="Supernatural_TV_Series">
+    <chorus repetition="four" n="1">
+        <dialogue speaker="The_Voices" lackOf="quotations" pretense="Prodigal_Son"> Carry on
+                <pronoun ref="The_Voices"/>
+            <adjective sort="classifying">wayward</adjective>
+            <pronoun ref="narrator">son</pronoun>
+            <syntax kind="informal"><pronoun ref="ambiguous">There'll</pronoun></syntax> be <noun
+                category="abstract">peace</noun> when <pronoun ref="narrator">you</pronoun> are done
+            Lay <pronoun ref="narrator">your</pronoun>
+            <adjective sort="qualifying">weary</adjective>
+            <noun category="concrete">head</noun> to rest <syntax kind="informal">Don't</syntax>
+            <pronoun ref="narrator">you</pronoun> cry no more</dialogue>
+    </chorus>
+    <verseOne> Once <pronoun ref="narrator">I</pronoun> rose above the <noun category="common"
+            >noise</noun> and <noun category="abstract">confusion</noun> Just to get a glimpse
+        beyond this <noun category="abstract">illusion</noun>
+        <pronoun ref="narrator">I</pronoun> was soaring ever higher But <pronoun ref="narrator"
+            >I</pronoun> flew too high <parallelism>Though <pronoun ref="narrator">my</pronoun>
+            <noun category="concrete">eyes</noun> could see <pronoun ref="narrator">I</pronoun>
+            still was a <adjective sort="classifying">blind</adjective>
+            <pronoun ref="narrator">man</pronoun> Though <pronoun ref="narrator">my</pronoun>
+            <noun category="abstract">mind</noun> could think <pronoun ref="narrator">I</pronoun>
+            still was a <adjective sort="qualifying">mad</adjective>
+            <pronoun ref="narrator">man</pronoun></parallelism>
+        <pronoun ref="narrator">I</pronoun> hear the voices when <syntax kind="informal"><pronoun
+                ref="narrator">I'm</pronoun></syntax> dreaming <pronoun ref="narrator">I</pronoun>
+        can hear <pronoun ref="The_Voices">them</pronoun> say </verseOne>
+    <chorus n="2">
+        <dialogue speaker="The_Voices" lackOf="quotations" pretense="Prodigal_Son">Carry on <pronoun
+                ref="The_Voices">my</pronoun>
+            <adjective sort="classifying">wayward</adjective>
+            <pronoun ref="narrator">son</pronoun>
+            <syntax kind="informal"><pronoun ref="ambiguous">There'll</pronoun></syntax> be <noun
+                category="abstract">peace</noun> when <pronoun ref="narrator">you</pronoun> are done
+            Lay <pronoun ref="narrator">your</pronoun>
+            <adjective sort="qualifying">weary</adjective>
+            <noun category="concrete">head</noun> to rest <syntax kind="informal">Don't</syntax>
+            <pronoun ref="narrator">you</pronoun> cry no more</dialogue>
+    </chorus>
+    <verseTwo>
+        <simile>Masquerading as a <pronoun ref="ambiguous">man</pronoun> with a <noun
+                category="common">reason</noun></simile>
+        <pronoun ref="narrator">My</pronoun>
+        <noun category="abstract">charade</noun> is the <noun category="collective">event of the
+            season</noun> And <principle type="philosophical" ref="Socrates">if <pronoun
+                ref="narrator">I</pronoun> claim to be a <adjective sort="qualifying"
+                >wise</adjective>
+            <pronoun ref="ambiguous">man</pronoun>, well It surely means that <pronoun
+                ref="narrator">I</pronoun>
+            <syntax kind="informal">don't</syntax> know</principle> On a <adjective
+            sort="qualifying">stormy</adjective>
+        <noun category="common">sea</noun> of <adjective sort="classifying">moving</adjective>
+        <noun category="abstract">emotion</noun> Tossed about <syntax kind="informal"><pronoun
+                ref="narrator">I'm</pronoun></syntax>
+        <simile>like a <noun category="concrete">ship</noun> on the <noun category="common"
+                >ocean</noun></simile>
+        <pronoun ref="narrator">I</pronoun> set a <noun category="common">course</noun> for <noun
+            category="collective">winds of fortune</noun> But <pronoun ref="narrator">I</pronoun>
+        hear the voices say </verseTwo>
+    <chorus n="3">
+        <dialogue speaker="The_Voices" lackOf="quotations" pretense="Prodigal_Son">Carry on <pronoun
+                ref="The_Voices">my</pronoun>
+            <adjective sort="classifying">wayward</adjective>
+            <pronoun ref="narrator">son</pronoun>
+            <syntax kind="informal"><pronoun ref="ambiguous">There'll</pronoun></syntax> be <noun
+                category="abstract">peace</noun> when <pronoun ref="narrator">you</pronoun> are done
+            Lay <pronoun ref="narrator">your</pronoun>
+            <adjective sort="qualifying">weary</adjective>
+            <noun category="concrete">head</noun> to rest <syntax kind="informal">Don't</syntax>
+            <pronoun ref="narrator">you</pronoun> cry no more
+                <exclamation><change>No!</change></exclamation></dialogue>
+    </chorus>
+    <guitarSolo instrument="guitar" time="start">[Guitar Solo]</guitarSolo>
+    <bridge>
+        <dialogue speaker="The_Voices" lackOf="quotations" pretense="Prodigal_Son"
+                ><parallelism>Carry on, <pronoun ref="narrator">you</pronoun> will always remember
+                Carry on, nothing equals the <noun category="abstract">splendor</noun></parallelism>
+            Now <pronoun ref="narrator">your</pronoun>
+            <syntax kind="informal"><noun category="abstract">life's</noun></syntax> no longer
+                <adjective sort="qualifying">empty</adjective> But surely <noun category="abstract"
+                >heaven</noun> waits for <pronoun ref="narrator">you</pronoun></dialogue>
+    </bridge>
+    <chorus n="4">
+        <dialogue speaker="The_Voices" lackOf="quotations" pretense="Prodigal_Son">Carry on <pronoun
+                ref="The_Voices">my</pronoun>
+            <adjective sort="classifying">wayward</adjective>
+            <pronoun ref="narrator">son</pronoun>
+            <syntax kind="informal"><pronoun ref="ambiguous">There'll</pronoun></syntax> be <noun
+                category="abstract">peace</noun> when <pronoun ref="narrator">you</pronoun> are done
+            Lay <pronoun ref="narrator">your</pronoun>
+            <adjective sort="qualifying">weary</adjective>
+            <noun category="concrete">head</noun> to rest <change>Don't <pronoun ref="narrator"
+                    >you</pronoun> cry</change>
+            <syntax kind="informal">Don't</syntax>
+            <pronoun ref="narrator">you</pronoun> cry no more</dialogue>
+    </chorus>
+    <guitarSoloOutro instrument="guitar" time="finish"> [Guitar Solo Outro] <exclamation>No
+            more!</exclamation>
+    </guitarSoloOutro>
+</lyrics>
