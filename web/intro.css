@@ -11,3 +11,6 @@ p {
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 20px;
 }
+.container {
+    display: flex;
+}
